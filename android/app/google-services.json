@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822132938524",
+    "project_id": "catalogue-app-63373",
+    "storage_bucket": "catalogue-app-63373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822132938524:android:1830f7079ebd8d4db40cd9",
+        "android_client_info": {
+          "package_name": "com.catalogue.empatc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822132938524-2genq1ppsiqvdqbk0ff9975f0oeoimgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeSSpTiP8qhwt8DY5HRB_os3LiW-IaA00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822132938524-2genq1ppsiqvdqbk0ff9975f0oeoimgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
